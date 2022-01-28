@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "379083666280",
+    "project_id": "medonat",
+    "storage_bucket": "medonat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379083666280:android:347d53b0787a3a08061cdd",
+        "android_client_info": {
+          "package_name": "com.example.mnat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379083666280-u842cenn37m742uqvgoqofmcaeo1e7aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaUTjH5FUZxNhYlVvxgVaz0CZJagGPBcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379083666280-u842cenn37m742uqvgoqofmcaeo1e7aa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
