@@ -10,6 +10,6 @@ app for android github integration
     <img src="Screenshot_20220211_001120.jpg" width="300px" height="500px"</img> 
 </div>
 <div align="center">
-    splash screen
     <img src="Screenshot_20220211_001120.jpg" width="300px" height="500px"</img> 
+    splash screen
 </div>
