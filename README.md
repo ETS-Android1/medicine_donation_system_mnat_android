@@ -75,11 +75,11 @@ app for android github integration
 </div>    
 <div align="center">
     <h2>17.help and complaints</h2>
-    <img src="(https://user-images.githubusercontent.com/40026948/153701206-a5b23125-b13e-404d-a61e-617d3dad0bdf.jpg" width="300px" height="500px"</img> 
+    <img src="https://user-images.githubusercontent.com/40026948/153701206-a5b23125-b13e-404d-a61e-617d3dad0bdf.jpg" width="300px" height="500px"</img> 
 </div>   
 <div align="center">
     <h2>18.Firebase realtime Database</h2>
-    <img src="https://user-images.githubusercontent.com/40026948/153701416-fe44d4fa-d0d6-4076-8687-3775019a1694.jpg" width="300px" height="500px"</img> 
+    <img src="https://user-images.githubusercontent.com/40026948/153701416-fe44d4fa-d0d6-4076-8687-3775019a1694.jpg"</img> 
 </div> 
 
 
