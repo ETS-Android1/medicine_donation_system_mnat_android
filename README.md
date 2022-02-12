@@ -20,7 +20,7 @@ app for android github integration
 </div>
 
 <div align="center">
-    <h2>2.Slelect user type(admin or donor)</h2>
-    <img src="(https://user-images.githubusercontent.com/40026948/153700155-ee8dd552-28ba-43fb-bed5-a4ef4db8c23b.jpg)" width="300px" height="500px"</img> 
+    <h2>3.new user sign up</h2>
+    <img src="https://user-images.githubusercontent.com/40026948/153700155-ee8dd552-28ba-43fb-bed5-a4ef4db8c23b.jpg" width="300px" height="500px"</img> 
 </div>
 ![Screenshot_20220212_113213](https://user-images.githubusercontent.com/40026948/153700155-ee8dd552-28ba-43fb-bed5-a4ef4db8c23b.jpg)
