@@ -23,4 +23,8 @@ app for android github integration
     <h2>3.new user sign up</h2>
     <img src="https://user-images.githubusercontent.com/40026948/153700155-ee8dd552-28ba-43fb-bed5-a4ef4db8c23b.jpg" width="300px" height="500px"</img> 
 </div>
-![Screenshot_20220212_113213](https://user-images.githubusercontent.com/40026948/153700155-ee8dd552-28ba-43fb-bed5-a4ef4db8c23b.jpg)
+
+<div align="center">
+    <h2>4.sign in activity</h2>
+    <img src="https://user-images.githubusercontent.com/40026948/153700346-50300d70-c9fa-4b30-9658-db18e1d7d298.jpg" width="300px" height="500px"</img> 
+</div>
